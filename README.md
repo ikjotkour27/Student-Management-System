@@ -25,3 +25,5 @@ Saves data (to be implemented with file handling) and exits the application.
 Clink on the link below to view :-
 https://drive.google.com/uc?export=download&id=10ReA3xYx_tKUlN50yYC12VsLEhHBqdqg
 
+
+.jar file is a java archive file which is basically a packaged file that contains all our compiled java classes , resources and a manifest file . Think of it as a zip file . 
