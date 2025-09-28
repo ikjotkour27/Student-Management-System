@@ -23,5 +23,5 @@ Exit & Save :
 Saves data (to be implemented with file handling) and exits the application.
 
 Clink on the link below to view :-
-https://drive.google.com/uc?export=download&id=10ReA3xYx_tKUlN50yYC12VsLEhHBqdqg/view
+https://drive.google.com/uc?export=download&id=10ReA3xYx_tKUlN50yYC12VsLEhHBqdqg
 
